@@ -76,7 +76,7 @@
 
 ```bash
 # 1. Clone and enter
-git clone <your-repo>
+git clone https://github.com/AnshGupta0007/Incident-Management-System
 cd incident-management-system
 
 # 2. Start all services
