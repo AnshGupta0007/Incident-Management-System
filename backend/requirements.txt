@@ -1,0 +1,28 @@
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+uvloop==0.21.0
+pydantic==2.10.3
+pydantic-settings==2.7.0
+
+# PostgreSQL
+sqlalchemy==2.0.36
+asyncpg==0.30.0
+
+# MongoDB
+motor==3.6.0
+pymongo==4.9.2
+
+# Redis
+redis==5.2.1
+
+# HTTP
+httpx==0.28.1
+
+# Testing
+pytest==8.3.4
+pytest-asyncio==0.25.0
+httpx==0.28.1
+anyio[trio]==4.7.0
+
+# Utilities
+python-multipart==0.0.19
